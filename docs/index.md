@@ -9,6 +9,8 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 * `mkdocs build` - Build the documentation site.
 * `mkdocs help` - Print this help message.
 
+[about](about.md)
+
 ## Project layout
 
     mkdocs.yml    # The configuration file.
